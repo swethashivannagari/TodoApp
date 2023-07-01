@@ -1,0 +1,17 @@
+.mybtn{
+    background-color: #D11531;
+    color:#fff;
+    font-size: 1.2 rem;
+    float: right;
+}
+.mt-3 {
+    margin-top: 5rem;
+}
+.mt-3 {
+    margin-top: 2rem!important;
+}
+.bold{
+    
+    font-weight: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
